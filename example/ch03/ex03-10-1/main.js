@@ -1,3 +1,4 @@
+//null使いなよ
 let currentTemp;            
 console.log(currentTemp); // undefined
 currentTemp = null; // currentTempはnull（未設定を表現）

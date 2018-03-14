@@ -1,3 +1,4 @@
+//プロパティ値にいれたのね
 const sam3 = {
   name: 'Sam',
   classification: { // プロパティの値がオブジェクト

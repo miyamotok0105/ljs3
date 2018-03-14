@@ -1,3 +1,4 @@
+//最大最小が用意されてるの
 const small = Number.EPSILON; /* 1と、1より大きい最小の値の差 */
 console.log(small);  // 2.220446049250313e-16
 const bigInt = Number.MAX_SAFE_INTEGER;  /* 表現できる最大の整数 */

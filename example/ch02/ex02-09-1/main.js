@@ -10,6 +10,7 @@ $(document).ready(function() {
   // Hello, Word!
   let c = Shape.Circle(200, 200, 80); //円
   c.fillColor = 'black'; // 中を黒く塗る
+  //PointTextでテキストを入れれる。
   let text = new PointText(200, 200); //新しいテキストを領域中央に
   text.justification = 'center'; //センタリング
   text.fillColor = 'white'; //色

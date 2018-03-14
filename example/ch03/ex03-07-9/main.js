@@ -1,3 +1,4 @@
+//テンプレートリテラルとか
 const currentTemp = 13.5;
 const multiline = '現在の温度は：' +
     `${currentTemp}℃です。\n` +

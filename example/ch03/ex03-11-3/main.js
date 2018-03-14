@@ -1,3 +1,4 @@
+//なるほろ
 const obj = {};
 obj.color = "黄色";
 obj["not an identifier"] = 3;

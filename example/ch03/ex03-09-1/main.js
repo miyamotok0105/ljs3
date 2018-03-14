@@ -1,3 +1,4 @@
+//ES2015からシンボル。ユニークになる。
 const RED = Symbol();
 const BLUE = Symbol();
 const ORANGE = Symbol("夕日の色");

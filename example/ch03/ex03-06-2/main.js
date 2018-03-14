@@ -1,3 +1,4 @@
+//一応全部みとこう
 let count = 10; /* 整数リテラル、countも倍精度小数の形式で記憶される */
 console.log(count); // 10
 const blue = 0x0000ff; /* 16進数 (16進数のff = 10進数の255) */
@@ -10,13 +11,16 @@ const c = 3.0e6; /* 指数表記 (3.0×(10の6乗) = 3,000,000) */
 console.log(c); // 3000000
 const e = -1.6e-19; /* 指数表記 (-1.6×(10の-19乗) = 0.00000000000000000016) */
 console.log(e); // -1.6e-19
+//無限大
 const inf = Infinity;
 console.log(inf); // Infinity
+//負の無限大
 const ninf = -Infinity;
 console.log(ninf); // -Infinity
 const nan = NaN; /* 「Not A Number」の意 */
 console.log(nan); // NaN
 
+//こうなるのか。。
 console.log(1/0); // Infinity
 console.log(-1/0); // -Infinity
 console.log(Infinity/Infinity); // NaN

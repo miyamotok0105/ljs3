@@ -1,3 +1,4 @@
+//2重になってるのね
 const sam3 = {
   name: 'Sam',
   classification: {  // プロパティの値がオブジェクト
